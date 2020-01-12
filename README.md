@@ -9,4 +9,4 @@
   - What is a Trie ? 
       - It is a search Tree used to store associative array where the keys are usually strings.
       - Diagrammatically:
-      ![Trie Structure](trie.png)
+          ![Trie Structure](trie.png)
