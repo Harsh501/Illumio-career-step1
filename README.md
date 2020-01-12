@@ -8,13 +8,5 @@
   - An efficient information retrieval structure is required. **Tries** fit in perfectly.
   - What is a Trie ? 
       - It is a search Tree used to store associative array where the keys are usually strings.
-       Diagrammatically:
-                          root
-                         /     \
-                       "1"      "0"   
-                       / \      /  \
-                     "11" "10" "00" "01"
-                     /      \
-                   "110"    "101" .. .. 
-                   /    \
-                 "1101" "1100" .. .. .. .
+      - Diagrammatically:
+      ![Trie Structure](trie.png)
