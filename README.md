@@ -14,3 +14,4 @@
     - Worse case time complexity for insertion and retrieval of element O(L) where L is the length of the word.
 
 ## Functional Flow :
+  - ![Flow diagram](insert_info_flow)
