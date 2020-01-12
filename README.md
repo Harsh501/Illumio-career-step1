@@ -16,6 +16,11 @@
 ## Functional Flow :
   - ![Flow diagram](Insert_info_flow.png)
   
+## How to execute:
+Rund the following commands in the terminal / cmd
+  - javac Firewall.java
+  - java Firewall
+  
 ## If I had more time I would've :
   - Come up with Red-Black tree structure / TreeMap structure / Ternary search tree inorder to reduce space and time complexity as the disadvantage of using Tries is higher memory storage.
   - Above mentioned structures have the advantage that they maintain order which makes operations like minimum, maximum,floor  ,ceiling and k-th largest faster , hence reducing time complexity to O(L Logn) where L is the length of the word and n is total number of words.
