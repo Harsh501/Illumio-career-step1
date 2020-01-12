@@ -11,7 +11,19 @@
       - Diagrammatically:
        - ![Trie Structure](trie.png)
   - Why Trie ? 
-    - Worse case time complexity for insertion and retrieval of element O(L) where L is the length of the word.
+    - Worse case time complexity for insertion and retrieval of element is O(L) where L is the length of the word.
 
 ## Functional Flow :
   - ![Flow diagram](Insert_info_flow.png)
+  
+## If I had more time I would've :
+  - Come up with Red-Black tree structure / TreeMap structure / Ternary search tree inorder to resuce space and time complexity as the disadvantage of using Tries is higher memory storage.
+  - Above mentioned structures have the advantage that they maintain order which makes operations like minimum, maximum, closest (floor or ceiling) and k-th largest faster , hence reducing time complexity to O(L Logn) where L is the length of the word and n is total number of words.
+  
+## Testing : 
+   - **Data.csv** containing all the mentioned rules and extra added rules was used for testing. All the mentioned test cases were cleared expeditiously.
+   
+## Teams intersted in:
+ - Data.
+ - Policy.
+ - Platform.
