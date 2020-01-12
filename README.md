@@ -10,3 +10,7 @@
       - It is a search Tree used to store associative array where the keys are usually strings.
       - Diagrammatically:
        - ![Trie Structure](trie.png)
+  - Why Trie ? 
+    - Worse case time complexity for insertion and retrieval of element O(L) where L is the length of the word.
+
+## Functional Flow :
